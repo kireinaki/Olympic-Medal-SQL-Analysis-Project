@@ -28,4 +28,5 @@ window functions, ROW_NUMBER(), DENSE_RANK(), LAG(), NULLIF(),
 and gaps-and-islands logic.
 
 Author: Robert Duanmu
+
 Tools: SQL Server Management Studio (SSMS)
